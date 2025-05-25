@@ -6,7 +6,6 @@ import json_repair
 from langfuse.openai import openai
 from pydantics import RequirementsConfig, QualityScoringConfig, ScopeConfig, ScopeScoringConfig
 
-OPENAI_API_KEY = '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'
 MODEL = 'o3-mini'
 
 LANGFUSE_SECRET_KEY = 'sk-lf-b90245cc-b297-4599-82fa-ca89aa50ddca'
