@@ -1,0 +1,69 @@
+{
+  "Scope": [
+    {
+      "criterion": "Identify the Product or Service",
+      "priority": "High",
+      "penalty_points": 10
+    },
+    {
+      "criterion": "Select Channels",
+      "priority": "High",
+      "penalty_points": 10
+    },
+    {
+      "criterion": "Types of Content",
+      "priority": "High",
+      "penalty_points": 10
+    },
+    {
+      "criterion": "Goals",
+      "priority": "High",
+      "penalty_points": 10
+    },
+    {
+      "criterion": "Timeline",
+      "priority": "High",
+      "penalty_points": 10
+    }
+  ],
+  "Quality": [
+    {
+      "criterion": "Code Clarity",
+      "priority": "Medium",
+      "penalty_points": 5
+    },
+    {
+      "criterion": "Testing",
+      "priority": "Medium",
+      "penalty_points": 5
+    },
+    {
+      "criterion": "Maintainability",
+      "priority": "Medium",
+      "penalty_points": 5
+    },
+    {
+      "criterion": "Design and UX",
+      "priority": "Medium",
+      "penalty_points": 5
+    },
+    {
+      "criterion": "Best Practices",
+      "priority": "Medium",
+      "penalty_points": 5
+    },
+    {
+      "criterion": "Performance",
+      "priority": "Medium",
+      "penalty_points": 5
+    },
+    {
+      "criterion": "Error Handling",
+      "priority": "Medium",
+      "penalty_points": 5
+    }
+  ],
+  "max_score": 70,
+  "passed_score": 70,
+  "final_score": 100
+}
